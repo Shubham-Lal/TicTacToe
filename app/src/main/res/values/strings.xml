@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">G1-Tic Tac Toe</string>
+    <string name="heading">Welcome to Tic-Tac-Toe</string>
+    <string name="grid">Grid</string>
+    <string name="creator">created by Shubham</string>
+</resources>
